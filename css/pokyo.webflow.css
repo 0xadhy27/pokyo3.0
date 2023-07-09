@@ -142,7 +142,7 @@
   min-height: 365px;
   background-color: #fff;
   border-radius: 10px;
-  margin-left: auto;
+  margin-left: 150px;
   margin-right: auto;
   overflow: hidden;
   box-shadow: 0 16px 30px rgba(89, 98, 115, .3);
@@ -573,7 +573,7 @@
 }
 
 .image {
-  max-width: 200%;
+  max-width: 800%;
   margin-right: 40px;
   padding-left: 0;
   padding-right: 0;
